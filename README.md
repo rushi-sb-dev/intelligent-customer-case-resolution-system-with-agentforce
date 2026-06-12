@@ -1,0 +1,2 @@
+# intelligent-customer-case-resolution-system-with-agentforce
+This project aims to develop a comprehensive Customer Case Resolution System within the Salesforce platform, leveraging its administrative capabilities and the power of Agentforce. The system will emulate a real-world customer support process, enabling users to efficiently log, track, and resolve customer issues. The project focuses on building a r
